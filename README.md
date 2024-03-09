@@ -182,7 +182,7 @@
 
 <details> 
 <summary>Credits</summary>
-# Credits: [1999AZZAR](https://github.com/1999AZZAR)
+<h1>Credits: https://github.com/1999AZZAR</h1>
 </details> 
 
 </body>
