@@ -82,28 +82,9 @@
   </a>
   <br>
 </details>
-<details>
-  <summary>global 🌏</summary>
-  <br/>
-  <details open>
-  <summary>👷‍♂️ create your own custom badge</summary>
-  <div>
-  <samp>
-    <h2 align="center">u can try using these website for creating your own custom badge</h2>
-    <p align="center">
-      <a href="https://badgen.net/" target="blank">
-        <img src="https://badgen.net/statics/badgen-logo.svg" img align="center" height="50"
-        alt="badgen"/></a>
-      <a href="https://shields.io/" target="blank">
-        <img src="https://raw.githubusercontent.com/badges/shields/master/readme-logo.svg" img align="center" height="50"
-        alt="shields.io"/></a>
-    </p>
-    </samp>
-  </div>
-</details> 
 
 <details open>
-  <summary>😒 Random Stuff</summary>
+  <summary>ART</summary>
   <div align="center">
     <h2>Just an ASCII art of kitty</h2>
     <pre>
