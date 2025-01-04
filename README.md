@@ -159,13 +159,6 @@
   </div>
 </details>
 
-</details>
-
-<details> 
-<summary>Credits</summary>
-<h1>Credits: https://github.com/1999AZZAR</h1>
-</details> 
-
 </body>
 <!--
 <footer>
